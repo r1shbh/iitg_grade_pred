@@ -17,8 +17,8 @@ The anonimity of each survey taker was taken care of.
 ## Features Description:
 
 ```
-gender : Male/Female
-branch : The engineering streams at IIT Guwahati University.
+1. `gender` : Male/Female
+2. **branch** : The engineering streams at IIT Guwahati University.
 CS: Computer Science
 MC: Mathematics & Computing
 EEE/ECE: Electrical Engineering
@@ -29,36 +29,31 @@ EP: Engineering Physics
 CST: Chemical Science & Technology
 BSBE: Bioscience & Biotechnology Engineering
 Design: Bachelor of Design
-dropper : Yes/No. Many students entering into IIT Guwahati drop one year at +
-level to prepare for IIT Joint Entrance Examination
-tenth_board : State/CBSE/ICSE. Different Educational Boards people opt during
-10th standard.
-twelvth_board : State/CBSE/ICSE. Different Educational Boards people opt during
-10th standard.
-coaching : Yes/No. Many students entering into IIT Guwahati undergo coaching to
-prepare for IIT Joint Entrance Examination.
-coaching_city : City name where the Coaching Institute belongs.
-coaching_name : Name of the Coaching Institute.
-home_state : Home state of student.
-home_city : Home city of student.
-fam_size : The family size of the student.
-mom_ed : Mom's Educational qualification.
-<10th Pass
-10th Pass
-12th Pass
-Graduate
-Post-Graduate
-dad_ed : Dad's Educational qualification.
-<10th Pass
-10th Pass
-```
 
-```
+3. **dropper** : Yes/No. Many students entering into IIT Guwahati drop one year at +2 level to prepare for IIT Joint Entrance Examination
+4. **tenth_board** : State/CBSE/ICSE. Different Educational Boards people opt during 10th standard.
+5. **twelvth_board** : State/CBSE/ICSE. Different Educational Boards people opt during 10th standard.
+6. coaching : Yes/No. Many students entering into IIT Guwahati undergo coaching to prepare for IIT Joint Entrance Examination.
+7. coaching_city : City name where the Coaching Institute belongs.
+8. coaching_name : Name of the Coaching Institute.
+9. home_state : Home state of student.
+10. home_city : Home city of student.
+11. fam_size : The family size of the student.
+12. mom_ed : Mom's Educational qualification.
+<10th Pass
+10th Pass
 12th Pass
 Graduate
 Post-Graduate
-```
-**mom_job** : Mom's Job
+
+13. dad_ed : Dad's Educational qualification.
+<10th Pass
+10th Pass
+12th Pass
+Graduate
+Post-Graduate
+
+14. **mom_job** : Mom's Job
 Housewife
 Govt
 Technical
@@ -69,7 +64,7 @@ Business
 Medical
 Else
 
-**dad_job** : Dad's Job
+15. **dad_job** : Dad's Job
 Govt
 Technical
 Management & Finance
@@ -77,8 +72,7 @@ Artist
 Law
 Business
 Medical
-Else\
-
+Else
 **study_time** : Average study time of students at campus (in hours)
 **tech_clubs** : The technical clubs of campus of which the student is a part of.
 **cult_clubs** : The cultural clubs of campus of which the student is a part of.
