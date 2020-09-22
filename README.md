@@ -2,21 +2,14 @@
 
 ## About Dataset:
 
-```
-A flagship project by Consulting & Analytics Club of IIT Guwahati (India) to
-understand the relation between the grades of a first year student at IIT
-Guwahati with their previous background and their activities at the campus.
-The project was aimed to help the next batch of incoming freshers to better
-prioritize their activities at campus.
-The data was collected via door-to-door survey collection in all hostels by
-representatives of C&A Club evenly to allow for data collection in all hostels.
-An online survey was avoided to have no fake information to be input by the
-students.
-The anonimity of each survey taker was taken care of.
-```
+- A flagship project by Consulting & Analytics Club of IIT Guwahati (India) to understand the relation between the grades of a first year student at IIT Guwahati with their previous background and their activities at the campus.
+- The project was aimed to help the next batch of incoming freshers to better prioritize their activities at campus.
+- The data was collected via door-to-door survey collection in all hostels by representatives of C&A Club evenly to allow for data collection in all hostels.
+- An online survey was avoided to have no fake information to be input by the students.
+- The anonimity of each survey taker was taken care of.
+
 ## Features Description:
 
-```
 1. `gender` : Male/Female
 2. **branch** : The engineering streams at IIT Guwahati University.
 CS: Computer Science
